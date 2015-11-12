@@ -36,19 +36,19 @@
 					<div class="collapse navbar-collapse navbar-1">
 	<ul class="site-navigation nav navbar-nav pull-right">
 		<li>
-			<a href="index.html" class="ltc-outer-space">INICIO</a>
+			<a class="ltc-outer-space hvr-underline-from-center" href="index.html" >INICIO</a>
 		</li>
 		<li>
-			<a class="ltc-outer-space" href="galeria.html">GALERIA</a>
+			<a class="ltc-outer-space hvr-underline-from-center" href="galeria.html">GALERIA</a>
 		</li>
 		<li>
-			<a class="ltc-outer-space" href="quienes-somos.html">QUIENES SOMOS</a>
+			<a class="ltc-outer-space hvr-underline-from-center" href="quienes-somos.html">QUIENES SOMOS</a>
 		</li>
 		<!-- <li>
 			<a class="ltc-outer-space" href="staff.html">STAFF</a>
 		</li> -->
 		<li>
-			<a class="ltc-outer-space" href="contacto.html">CONTACTO</a>
+			<a class="ltc-outer-space hvr-underline-from-center" href="contacto.html">CONTACTO</a>
 		</li>
 	</ul>
 </div>				</nav>
@@ -94,7 +94,7 @@
 						</label><textarea id="mensaje" name="mensaje" class="form-control" rows="4" cols="50" required></textarea>
 					</div>
 					<div class="text-center">
-						<button class="bloc-button btn btn-wire" type="submit">
+						<button class="bloc-button btn btn-wire" id="send_btn" type="submit">
 							ENVIAR
 						</button>
 					</div>
@@ -167,6 +167,10 @@
 <!-- Main container END -->
 
 </body>
+
+<script>
+$('#send_btn').popover({content: 'Gracias!'},'click');	
+</script>
     
 <!-- Google Analytics -->
 

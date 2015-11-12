@@ -68,7 +68,7 @@
 						</label><textarea id="mensaje" name="mensaje" class="form-control" rows="4" cols="50" required></textarea>
 					</div>
 					<div class="text-center">
-						<button class="bloc-button btn btn-wire" type="submit">
+						<button class="bloc-button btn btn-wire" id="send_btn" type="submit">
 							ENVIAR
 						</button>
 					</div>
@@ -86,6 +86,10 @@
 <!-- Main container END -->
 
 </body>
+
+<script>
+$('#send_btn').popover({content: 'Gracias!'},'click');	
+</script>
     
 <!-- Google Analytics -->
 

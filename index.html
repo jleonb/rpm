@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
     <meta charset="utf-8">
@@ -21,50 +21,56 @@
 <!-- Main container -->
 <div class="page-container">
     
-<!-- Hero Bloc -->
-<div id="hero-bloc" class="bloc hero bgc-white b-parallax bg-fondo d-bloc">
-	<div class="container hero-nav bloc-sm sticky-nav">
-		<nav class="navbar row">
-			<div class="navbar-header">
-				<a class="navbar-brand" href="index.html"><img src="img/logo_rpm.png" alt="logo" width="150" /></a>
-				<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-			</div>
-			<div class="collapse navbar-collapse navbar-1">
+<!-- Navigation Bloc -->
+<div id="b-nav" class="bloc-container">
+	<div id="bloc-nav" class="d-mode d-mode-active">
+		<div class="bloc l-bloc bgc-white sticky-nav" id="nav-bloc">
+			<div class="container">
+				<nav class="navbar row">
+					<div class="navbar-header">
+						<a class="navbar-brand ltc-dark-jungle-green" href="index.html"><img src="img/logo_rpm.png" alt="logo" width="150" /></a>
+						<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
+							<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+						</button>
+					</div>
+					<div class="collapse navbar-collapse navbar-1">
 	<ul class="site-navigation nav navbar-nav pull-right">
 		<li>
-			<a href="index.html" class="ltc-outer-space">INICIO</a>
+			<a class="ltc-outer-space hvr-underline-from-center" href="index.html" >INICIO</a>
 		</li>
 		<li>
-			<a class="ltc-outer-space" href="galeria.html">GALERIA</a>
+			<a class="ltc-outer-space hvr-underline-from-center" href="galeria.html">GALERIA</a>
 		</li>
 		<li>
-			<a class="ltc-outer-space" href="quienes-somos.html">QUIENES SOMOS</a>
+			<a class="ltc-outer-space hvr-underline-from-center" href="quienes-somos.html">QUIENES SOMOS</a>
 		</li>
 		<!-- <li>
 			<a class="ltc-outer-space" href="staff.html">STAFF</a>
 		</li> -->
 		<li>
-			<a class="ltc-outer-space" href="contacto.html">CONTACTO</a>
+			<a class="ltc-outer-space hvr-underline-from-center" href="contacto.html">CONTACTO</a>
 		</li>
 	</ul>
-</div>		</nav>
+</div>				</nav>
+			</div>
+		</div>
 	</div>
-	<div class="v-center">
-		<div class="vc-content row">
+</div>
+<!-- Navigation Bloc END -->
+
+<!-- bloc-12 -->
+<div class="bloc bgc-white tc-white b-parallax bg-fondo d-bloc" id="bloc-12">
+	<div class="container bloc-xxl">
+		<div class="row">
 			<div class="col-sm-8 col-md-offset-2">
-				<h3 class=" text-center mg-lg tc-white lg-shadow">
+				<h3 class="text-center mg-lg lg-shadow">
 					RPM nace con la intención de crear más espacios destinados al deporte y la recreación para las personas, ayudando a que su práctica se realice de manera ocasional o competitiva.
 				</h3>
 			</div>
-		</div><a id="scroll-hero" class="btn-dwn" href="#"><span class="fa fa-chevron-down"></span></a>
+		</div>
 	</div>
 </div>
-<!-- Hero Bloc END -->
+<!-- bloc-12 END -->
 
 <!-- bloc-2 -->
 <div class="bloc bgc-awesome d-bloc" id="bloc-2">
@@ -75,18 +81,22 @@
 					Entérate de nuestras próximas actividades y eventos.
 				</h3>
 				<div class="row">
+				<form id="form-2762" method="post" action="suscribe.php">
 					<div class="col-sm-9">
-						<form id="form-2762" novalidate>
+						
 							<div class="form-group">
-								<input class="form-control" placeholder="ingresa tu email" />
+								<input class="form-control" id="email" name="email" type="mail" placeholder="ingresa tu email" />
 							</div>
-						</form>
+						
 					</div>
 					<div class="col-sm-3">
 						<div class="text-center">
-							<a href="index.html" class="btn  btn-wire wire-btn-white"><span class="fa fa-star icon-spacer"></span>SUSCRIBIRME</a>
+							<button class="bloc-button btn btn-wire" id="send_btn" type="submit">
+							<span class="fa fa-star icon-spacer"></span>SUSCRIBIRME</a>
+						</button>
 						</div>
 					</div>
+				</form>
 				</div>
 			</div>
 		</div>
@@ -182,6 +192,8 @@
 <!-- Main container END -->
 
 </body>
+
+
     
 <!-- Google Analytics -->
 

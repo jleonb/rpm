@@ -32,7 +32,7 @@ if(isset($_POST['email'])) {
     $error_message = "";
     $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
   if(!preg_match($email_exp,$email_from)) {
-    $error_message .= 'La dirección de email ingrsada no es valida.<br />';
+    $error_message .= 'La dirección de email ingresada no es valida.<br />';
   }
     $string_exp = "/^[A-Za-z\s.'-]+$/";
   if(!preg_match($string_exp,$first_name)) {
@@ -69,7 +69,7 @@ $headers = 'From: '.$email_from."\r\n".
 'X-Mailer: PHP/' . phpversion();
 @mail($email_to, $email_subject, $email_message, $headers);
 sleep(2);
-echo "<meta http-equiv='refresh' content=\"0; url=index.html\">";
+// echo "<meta http-equiv='refresh' content=\"0; url=index.html\">";
 ?>
  
 <?php

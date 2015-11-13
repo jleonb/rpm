@@ -15,7 +15,7 @@ if(isset($_POST['email'])) {
     
  
   
-    $email_message = "El email ingresaso es:\n\n";
+    $email_message = "El email ingresado es:\n\n";
  
     function clean_string($string) {
       $bad = array("content-type","bcc:","to:","cc:","href");

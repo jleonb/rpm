@@ -2,7 +2,7 @@
 if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "info@rpmproducciones.cl";
+    $email_to = "jleon@webframe.cl";
     $email_subject = "[CONTACTO RPM]";
  
     function died($error) {

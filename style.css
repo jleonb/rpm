@@ -225,9 +225,12 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-size: 16px;
 	line-height: 24px;
 }
-#bloc-10 h2{
+#bloc-10 h2, ol, li{
 	font-family: Lato;
 	font-weight: 400;
+}
+#bloc-10 li{
+	margin-bottom:1em;
 }
 #bloc-12 h3{
 	font-family: Lato;

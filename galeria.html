@@ -44,6 +44,9 @@
 <script src="./js/jquery-2.1.0.min.js"></script>
 <script src="./js/min/bootstrap-min.js"></script>
 <script src="./js/min/blocs-min.js"></script>
+
+
+
     
     <title>Galeria - RPM</title>
 </head>
@@ -64,7 +67,7 @@
 						</button>
 					</div>
 					<div class="collapse navbar-collapse navbar-1" id="menu">
-	<ul class="site-navigation nav navbar-nav pull-right">
+	<ul class="site-navigation nav navbar-nav">
 		<li>
 			<a class="ltc-outer-space hvr-underline-from-center" href="index.html" >INICIO</a>
 		</li>
@@ -89,10 +92,13 @@
 		 	</ul>
 		</li>
 		<li>
-			<a class="ltc-outer-space hvr-underline-from-center" href="contacto.html">CONTACTO</a>
+			<a class="ltc-outer-space hvr-underline-from-center contacto" href="#contacto" data-toggle="modal">CONTACTO</a>
 		</li>
 	</ul>
-</div>				</nav>
+</div>
+
+
+				</nav>
 			</div>
 		</div>
 	</div>
@@ -272,11 +278,79 @@
 			</div>
 		</div>
 	</div>
-</div><!-- Footer - bloc-12 END -->
+</div>
+
+
+
+
+    
+    
+    
+    <!-- Footer - bloc-12 END -->
 </div>
 <!-- Main container END -->
 
 </body>
+
+<!-- Contacto -->
+<div class="container">
+    <div id="contacto" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">Formulario de contacto</h4>
+        </div>
+        <div class="modal-body">
+        	<form class="form-horizontal" name="commentform" method="post" action="contacto.php">
+    			<div class="form-group">
+        			<div class="col-md-10 col-md-offset-1 input-group">
+	        			<span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+            			<input type="text" class="form-control" id="first_name" name="first_name" placeholder="nombre"/>
+        			</div>
+    			</div>
+    			<div class="form-group">
+        			<div class="col-md-10 col-md-offset-1 input-group">
+	        			<span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+            			<input type="text" class="form-control" id="last_name" name="last_name" placeholder="apellido"/>
+        			</div>
+    			</div>
+    			<div class="form-group">
+     			   <div class="col-md-10 col-md-offset-1 input-group">
+    				    <span class="input-group-addon"><i class="fa fa-envelope fa-fw"></i></span>
+     			        <input type="email" class="form-control" id="email" name="email" placeholder="dirección de correo"/>
+			        </div>
+			    </div>
+			    <div class="form-group">
+     			   <div class="col-md-10 col-md-offset-1 input-group">
+    				    <span class="input-group-addon"><i class="fa fa-phone fa-fw"></i></span>
+     			        <input type="integer" class="form-control" id="phone" name="phone" placeholder="teléfono"/>
+			        </div>
+			    </div>
+    			<div class="form-group">
+     			    <div class="col-md-10 col-md-offset-1 input-group">
+            			<textarea rows="6" class="form-control" id="comments" name="comments" placeholder="pregunta o comentario"></textarea>
+			        </div>
+			    </div>
+    			<div class="form-group">
+        			<div class="col-md-10 col-md-offset-1 input-group">
+			            <button type="submit" value="Submit" class="bloc-button btn btn-wire" id="send_btn">Enviar</button>
+			        </div>
+			    </div>
+			</form>
+        </div><!-- End of Modal body -->
+        </div><!-- End of Modal content -->
+        </div><!-- End of Modal dialog -->
+    </div>
+</div>
+<!-- Contacto -->
+
+<script>
+    $('#send_btn').popover({content: 'Gracias!'},'click');  
+</script>
+<script>
+$('#send_btn').popover({content: 'Gracias!'},'click');	
+</script>
     
 <!-- Google Analytics -->
 <script>

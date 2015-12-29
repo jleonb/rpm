@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
     <meta charset="utf-8">
@@ -46,8 +46,15 @@
 
 
 
- 
-    <title>Contacto - RPM</title>
+    <title>Inicio - RPM</title>
+
+	<!-- Own Carousel -->
+	<script src="./owl-carousel/owl.carousel.js"></script>
+	<link rel="stylesheet" href="./owl-carousel/owl.carousel.css">
+	<link rel="stylesheet" href="./owl-carousel/owl.theme.css">
+	<link rel="stylesheet" href="./owl-carousel/owl.transitions.css">
+	
+
 </head>
 <body>
 <!-- Main container -->
@@ -104,55 +111,30 @@
 </div>
 <!-- Navigation Bloc END -->
 
-<!-- bloc-11 -->
-<div class="bloc bg-runn-12 b-parallax bgc-dark-jungle-green d-bloc tc-white" id="bloc-11">
-	<div class="container bloc-lg">
+<!-- bloc-12 -->
+<div class="bloc bgc-white tc-white b-parallax bg-fondo d-bloc" id="bloc-12">
+	<div class="container bloc-xxl">
 		<div class="row">
-			<div class="col-sm-12">
-				<form id="form-2" method="post" action="contacto.php">
-					<div class="form-group">
-						<label>
-							Nombre
-						</label>
-						<input type="text" id="nombre" name="nombre" class="form-control" required />
-					</div>
-					<div class="form-group">
-						<label>
-							Apellidos
-						</label>
-						<input type="text" id="apellidos" name="apellidos" class="form-control" required />
-					</div>
-					<div class="form-group">
-						<label>
-							Teléfono
-						</label>
-						<input id="telefono" name="telefono" class="form-control" required />
-					</div>
-					<div class="form-group">
-						<label>
-							Email
-						</label>
-						<input id="email" name="email" class="form-control" type="email" required />
-					</div>
-					<div class="form-group">
-						<label>
-							Mensaje
-						</label><textarea id="mensaje" name="mensaje" class="form-control" rows="4" cols="50" required></textarea>
-					</div>
-					<div class="text-center">
-						<a href="#" data-toggle="modal" data-target="#gracias"><button class="bloc-button btn btn-wire" type="submit">
-							ENVIAR
-						</button><a/>
-					</div>
-				</form>
+			<div class="col-sm-8 col-md-offset-2">
+				<h3 class="text-center mg-lg lg-shadow">
+					Gracias! <br>
+					En breve nos pondremos en contacto.
+				</h3>
 			</div>
 		</div>
 	</div>
 </div>
-<!-- bloc-11 END -->
+<!-- bloc-12 END -->
+
+
+
+
+
+
+
 
 <!-- Footer - bloc-12 -->
-<div class="bloc bgc-dark-jungle-green d-bloc" id="bloc-12">
+	<div class="bloc bgc-dark-jungle-green d-bloc" id="bloc-12">
 	<div class="container bloc-sm">
 		<div class="row">
 			<div class="col-sm-3">
@@ -230,8 +212,8 @@
         <img src="img/500x150.jpg" class="img-responsive" width="100%" alt="gracias!">
       </div>
       <div class="modal-body">
-      	<h2 class="text-center">Gracias por contactarte con nosotros!</h2> <br>
-      	<h3 class="text-center">En breve nos pondremos en contacto.</h3>
+      	<h3 class="text-center">Gracias por suscribirte!</h3> <br>
+      	<h4 class="text-center">En breve recibiras noticias de nuestros eventos y actividades.</h4>
 
       </div>
       <div class="modal-footer">
@@ -240,6 +222,76 @@
     </div>
   </div>
 </div>
+
+<!-- Owl Carousel -->
+<script>
+	$(document).ready(function() {
+  		$("#owl-example").owlCarousel({
+      		autoPlay: 3000, //Set AutoPlay to 3 seconds
+      		items : 4,
+      		itemsDesktop : [1199,3],
+      		itemsDesktopSmall : [979,3]
+  		});
+	});
+</script>
+
+<!-- Contacto -->
+<div class="container">
+    <div id="contacto" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">Formulario de contacto</h4>
+        </div>
+        <div class="modal-body">
+        	<form class="form-horizontal" name="commentform" method="post" action="contacto.php">
+    			<div class="form-group">
+        			<div class="col-md-10 col-md-offset-1 input-group">
+	        			<span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+            			<input type="text" class="form-control" id="first_name" name="first_name" placeholder="nombre"/>
+        			</div>
+    			</div>
+    			<div class="form-group">
+        			<div class="col-md-10 col-md-offset-1 input-group">
+	        			<span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+            			<input type="text" class="form-control" id="last_name" name="last_name" placeholder="apellido"/>
+        			</div>
+    			</div>
+    			<div class="form-group">
+     			   <div class="col-md-10 col-md-offset-1 input-group">
+    				    <span class="input-group-addon"><i class="fa fa-envelope fa-fw"></i></span>
+     			        <input type="email" class="form-control" id="email" name="email" placeholder="dirección de correo"/>
+			        </div>
+			    </div>
+			    <div class="form-group">
+     			   <div class="col-md-10 col-md-offset-1 input-group">
+    				    <span class="input-group-addon"><i class="fa fa-phone fa-fw"></i></span>
+     			        <input type="integer" class="form-control" id="phone" name="phone" placeholder="teléfono"/>
+			        </div>
+			    </div>
+    			<div class="form-group">
+     			    <div class="col-md-10 col-md-offset-1 input-group">
+            			<textarea rows="6" class="form-control" id="comments" name="comments" placeholder="pregunta o comentario"></textarea>
+			        </div>
+			    </div>
+    			<div class="form-group">
+        			<div class="col-md-10 col-md-offset-1 input-group">
+			            <button type="submit" value="Submit" class="bloc-button btn btn-wire" id="send_btn">Enviar</button>
+			        </div>
+			    </div>
+			</form>
+        </div><!-- End of Modal body -->
+        </div><!-- End of Modal content -->
+        </div><!-- End of Modal dialog -->
+    </div>
+</div>
+<!-- Contacto -->
+
+<script>
+    $('#send_btn').popover({content: 'Gracias!'},'click');  
+</script>
+
     
 <!-- Google Analytics -->
 <script>

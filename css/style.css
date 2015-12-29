@@ -243,6 +243,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-12 a:hover {
 	color:#FE2847;
 }
+#menu .contacto {
+	margin-right: 2em;
+}
 #menu li a {
 	font-size:0.8em;
 	padding:1em 1em 0.5em 1em;
@@ -443,11 +446,11 @@ button{
 
 .btn-wire{
 	background:transparent!important;
-	border:2px solid transparent;
+	border:2px solid #ccc;
 }
 .btn-wire:hover{
 	background:transparent!important;
-	border:2px solid transparent;
+	border:2px solid #ccc;
 }
 .icon-spacer{
 	margin-right:5px;
@@ -802,5 +805,21 @@ iframe{
   left: 0;
   right: 0;
 }
+
+
+.input-group[class*="col-"] {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.popover   {
+	background-color: #e74c3c;
+	color: #ecf0f1;
+	width: 120px;
+}
+.popover.right .arrow:after {
+	border-right-color: #e74c3c;
+}
+
+
 
 

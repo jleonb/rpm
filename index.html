@@ -48,11 +48,7 @@
 
     <title>Inicio - RPM</title>
 
-	<!-- Own Carousel -->
-	<script src="./owl-carousel/owl.carousel.js"></script>
-	<link rel="stylesheet" href="./owl-carousel/owl.carousel.css">
-	<link rel="stylesheet" href="./owl-carousel/owl.theme.css">
-	<link rel="stylesheet" href="./owl-carousel/owl.transitions.css">
+	
 	
 
 </head>
@@ -84,10 +80,11 @@
 			<a class="ltc-outer-space hvr-underline-from-center" href="quienes-somos.html">QUIENES SOMOS</a>
 		</li>
 		<li>
-			<a class="ltc-outer-space hvr-underline-from-center dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">SALUD Y NUTRICIÓN<span class="caret"></span></a>
-			<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-			    <li class="text-center">
-			    	<a href="beneficios.html" class="ltc-outer-space hvr-underline-from-center">BENEFICIOS PARA LA SALUD</a>
+		<div class="dropdown">
+			<a href="#" class="ltc-outer-space hvr-underline-from-center dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">SALUD Y NUTRICIÓN<span class="caret"></span></a>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+			    <li role="presentation" class="text-center">
+			    	<a role="menuitem" href="beneficios.html" class="ltc-outer-space hvr-underline-from-center">BENEFICIOS PARA LA SALUD</a>
 			    </li>
 			    <li class="text-center">
 			    	<a href="alimentacion.html" class="ltc-outer-space hvr-underline-from-center">ALIMENTACIÓN SALUDABLE</a>
@@ -96,6 +93,7 @@
 			    	<a href="consejos.html" class="ltc-outer-space hvr-underline-from-center">CONSEJOS PARA UN MEJOR RUNNING</a>
 			    </li>
 		 	</ul>
+		 </div>
 		</li>
 		<li>
 			<a class="ltc-outer-space hvr-underline-from-center contacto" href="#contacto" data-toggle="modal">CONTACTO</a>
@@ -115,7 +113,7 @@
 <div class="bloc bgc-white tc-white b-parallax bg-fondo d-bloc" id="bloc-12">
 	<div class="container bloc-xxl">
 		<div class="row">
-			<div class="col-sm-8 col-md-offset-2">
+			<div class="col-sm-8 col-sm-offset-2">
 				<h3 class="text-center mg-lg lg-shadow">
 					RPM nace con la intención de crear más espacios destinados al deporte y la recreación para las personas, ayudando a que su práctica se realice de manera ocasional o competitiva.
 				</h3>
@@ -185,7 +183,7 @@
 	<div class="bloc bgc-dark-jungle-green d-bloc" id="bloc-12">
 	<div class="container bloc-sm">
 		<div class="row">
-			<div class="col-sm-3">
+			<div class="col-sm-4">
 				<h4 class="mg-md  tc-white">
 					RPM PRODUCCIONES
 				</h4>
@@ -193,7 +191,7 @@
 					<a href=""><span class="ion ion-social-whatsapp-outline"></span> +56 9 56171438</a>
 				</h5>
 				<h5 class="mg-md tc-white">
-					<a href=""><span class="ion ion-android-pin"></span> Macul 2701, depto. 2201 – B</a>
+					<a href=""><span class="ion ion-android-pin"></span> Macul 2701 dp. 2201B</a>
 				</h5>
 				<h5 class="mg-md tc-white">
 					<a href=""><span class="ion ion-android-mail"></span> info@rpmproducciones.cl</a>
@@ -219,7 +217,7 @@
 					<a href=""><span class="ion ion-checkmark"></span> Contacto</a>
 				</h5>
 			</div>
-			<div class="col-sm-3">
+			<div class="col-sm-2">
 				<h4 class="mg-md  tc-white">
 					Síguenos!
 				</h4>
@@ -271,6 +269,12 @@
   </div>
 </div>
 
+<!-- Own Carousel -->
+	<script src="./owl-carousel/owl.carousel.min.js"></script>
+	<link rel="stylesheet" href="./owl-carousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="./owl-carousel/owl.theme.min.css">
+	<link rel="stylesheet" href="./owl-carousel/owl.transitions.min.css">
+
 <!-- Owl Carousel -->
 <script>
 	$(document).ready(function() {
@@ -282,6 +286,7 @@
   		});
 	});
 </script>
+
 
 <!-- Contacto -->
 <div class="container">

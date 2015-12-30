@@ -705,7 +705,7 @@ iframe{
     .navbar-brand img{
         max-height: 40px;
         width:auto;
-        margin: -10px 10px 0 0;    
+        margin: 0px 10px 0 0;    
     }
     .nav-invert .navbar-header{
         float: none;
@@ -820,6 +820,7 @@ iframe{
 	border-right-color: #e74c3c;
 }
 
-
-
+.caret {
+	border-top:4px solid;
+}
 

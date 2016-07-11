@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19099",
+"creatorBuild": "19120",
 "files": {
 	"\/alimentacion.html": {
 		"fileType": 8192,
@@ -16,6 +16,24 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/beneficios.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bin\/form-2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bin\/form-2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bin\/form-2762.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bin\/form-2762.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -115,6 +133,33 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/style.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/curiosidades.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/curiosidades.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/elongar.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/elongar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/eventos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/eventos.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -423,6 +468,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/googleae1722b55a0638a8.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/googleae1722b55a0638a8.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/gracias.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -474,6 +528,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/Coca-Cola-Light.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/Coca-Cola-Light.png",
+		"outputAbbreviatedPath": "\/img\/Coca-Cola-Light.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Coca-Cola-Zero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7168,
+		"inputAbbreviatedPath": "\/img\/Coca-Cola-Zero.png",
+		"outputAbbreviatedPath": "\/img\/Coca-Cola-Zero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Coca-Cola.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5625,
+		"inputAbbreviatedPath": "\/img\/Coca-Cola.png",
+		"outputAbbreviatedPath": "\/img\/Coca-Cola.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/coca.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -481,6 +568,17 @@
 		"initialSize": 17146,
 		"inputAbbreviatedPath": "\/img\/coca.jpg",
 		"outputAbbreviatedPath": "\/img\/coca.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/descargar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3383,
+		"inputAbbreviatedPath": "\/img\/descargar.png",
+		"outputAbbreviatedPath": "\/img\/descargar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -595,6 +693,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/placeholder-image.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7727,
+		"inputAbbreviatedPath": "\/img\/placeholder-image.png",
+		"outputAbbreviatedPath": "\/img\/placeholder-image.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/runn_12.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -672,6 +781,281 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/san_jose\/1000x350.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75041,
+		"inputAbbreviatedPath": "\/img\/san_jose\/1000x350.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/1000x350.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/13k.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140338,
+		"inputAbbreviatedPath": "\/img\/san_jose\/13k.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/13k.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/26k.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135584,
+		"inputAbbreviatedPath": "\/img\/san_jose\/26k.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/26k.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/5k.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 332446,
+		"inputAbbreviatedPath": "\/img\/san_jose\/5k.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/5k.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31433,
+		"inputAbbreviatedPath": "\/img\/san_jose\/banner.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/banner_full.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 696103,
+		"inputAbbreviatedPath": "\/img\/san_jose\/banner_full.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/banner_full.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/banner_full2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 473806,
+		"inputAbbreviatedPath": "\/img\/san_jose\/banner_full2.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/banner_full2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/categorias.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91175,
+		"inputAbbreviatedPath": "\/img\/san_jose\/categorias.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/categorias.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/como_llegar_13k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116749,
+		"inputAbbreviatedPath": "\/img\/san_jose\/como_llegar_13k.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/como_llegar_13k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/como_llegar_26k.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204063,
+		"inputAbbreviatedPath": "\/img\/san_jose\/como_llegar_26k.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/como_llegar_26k.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/como_llegar_26k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116189,
+		"inputAbbreviatedPath": "\/img\/san_jose\/como_llegar_26k.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/como_llegar_26k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/como_llegar_5k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107847,
+		"inputAbbreviatedPath": "\/img\/san_jose\/como_llegar_5k.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/como_llegar_5k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 401689,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_1.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92457,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_2.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 459737,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_3.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 200861,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_4.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88518,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_5.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27051,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_6.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/home.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 408810,
+		"inputAbbreviatedPath": "\/img\/san_jose\/home.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/home.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/inicio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103193,
+		"inputAbbreviatedPath": "\/img\/san_jose\/inicio.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/inicio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79049,
+		"inputAbbreviatedPath": "\/img\/san_jose\/logo.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/logo_gr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55314,
+		"inputAbbreviatedPath": "\/img\/san_jose\/logo_gr.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/logo_gr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/plano_13k.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 365493,
+		"inputAbbreviatedPath": "\/img\/san_jose\/plano_13k.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/plano_13k.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/plano_26k.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 363879,
+		"inputAbbreviatedPath": "\/img\/san_jose\/plano_26k.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/plano_26k.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/plano_5k.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 360309,
+		"inputAbbreviatedPath": "\/img\/san_jose\/plano_5k.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/plano_5k.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sprite.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -679,6 +1063,17 @@
 		"initialSize": 18395,
 		"inputAbbreviatedPath": "\/img\/sprite.jpg",
 		"outputAbbreviatedPath": "\/img\/sprite.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35973,
+		"inputAbbreviatedPath": "\/img\/Sprite.png",
+		"outputAbbreviatedPath": "\/img\/Sprite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -847,9 +1242,36 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/curiosidades.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/curiosidades.kit",
+		"outputAbbreviatedPath": "\/curiosidades.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/elongar.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/elongar.kit",
+		"outputAbbreviatedPath": "\/elongar.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/eventos.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/eventos.kit",
+		"outputAbbreviatedPath": "\/eventos.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/footer.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/footer.kit",
 		"outputAbbreviatedPath": "\/footer.html",
@@ -858,7 +1280,7 @@
 		},
 	"\/kit\/formulario_de_contacto.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/formulario_de_contacto.kit",
 		"outputAbbreviatedPath": "\/formulario_de_contacto.html",
@@ -885,7 +1307,7 @@
 		},
 	"\/kit\/header.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/header.kit",
 		"outputAbbreviatedPath": "\/header.html",
@@ -912,10 +1334,19 @@
 		},
 	"\/kit\/menu.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/menu.kit",
 		"outputAbbreviatedPath": "\/menu.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/psicologia.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/psicologia.kit",
+		"outputAbbreviatedPath": "\/psicologia.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -925,6 +1356,24 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/quienes-somos.kit",
 		"outputAbbreviatedPath": "\/quienes-somos.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/san_jose_de_maipo.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/san_jose_de_maipo.kit",
+		"outputAbbreviatedPath": "\/san_jose_de_maipo.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/staff.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/staff.kit",
+		"outputAbbreviatedPath": "\/staff.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1024,6 +1473,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/psicologia.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/psicologia.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/quienes-somos.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -1044,6 +1502,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/san_jose_de_maipo.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/san_jose_de_maipo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/staff.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -1053,11 +1520,164 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/style.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/suscribe.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/suscribe.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/alimentacion.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/alimentacion.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/beneficios.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/beneficios.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/consejos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/consejos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/contacto.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/contacto.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/curiosidades.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/curiosidades.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/elongar.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/elongar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/eventos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/eventos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/galeria.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/galeria.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/gracias.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/gracias.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/header.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/header.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/psicologia.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/psicologia.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/quienes-somos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/quienes-somos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/san_jose_de_maipo.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/san_jose_de_maipo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/staff.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/staff.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1706,7 +2326,7 @@
 	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
 	"typescriptModuleResolutionType": 0,
-	"typescriptModuleType": 0,
+	"typescriptModuleType": 2,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
 	"typescriptRemoveComments": 0,

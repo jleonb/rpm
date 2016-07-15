@@ -1056,6 +1056,105 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/slider_home\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52814,
+		"inputAbbreviatedPath": "\/img\/slider_home\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_home\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32193,
+		"inputAbbreviatedPath": "\/img\/slider_home\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_home\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35189,
+		"inputAbbreviatedPath": "\/img\/slider_home\/3.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_home\/4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66193,
+		"inputAbbreviatedPath": "\/img\/slider_home\/4.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_home\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49242,
+		"inputAbbreviatedPath": "\/img\/slider_home\/5.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_home\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55334,
+		"inputAbbreviatedPath": "\/img\/slider_home\/6.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_home\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52796,
+		"inputAbbreviatedPath": "\/img\/slider_home\/7.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_home\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61195,
+		"inputAbbreviatedPath": "\/img\/slider_home\/8.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_home\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61605,
+		"inputAbbreviatedPath": "\/img\/slider_home\/9.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_home\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sprite.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1266,6 +1365,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/eventos.kit",
 		"outputAbbreviatedPath": "\/eventos.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/fb-head.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/fb-head.kit",
+		"outputAbbreviatedPath": "\/fb-head.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1543,141 +1651,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/suscribe.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/alimentacion.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/alimentacion.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/beneficios.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/beneficios.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/consejos.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/consejos.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/contacto.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/contacto.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/curiosidades.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/curiosidades.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/elongar.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/elongar.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/eventos.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/eventos.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/galeria.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/galeria.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/gracias.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/gracias.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/header.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/header.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/psicologia.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/psicologia.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/quienes-somos.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/quienes-somos.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/san_jose_de_maipo.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/san_jose_de_maipo.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/jaime\/Google Drive\/webframe\/webframe\/staff.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/jaime\/Google Drive\/webframe\/webframe\/staff.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

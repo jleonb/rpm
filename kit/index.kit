@@ -7,14 +7,15 @@
     <!-- @include header.kit -->
     <title>Inicio - RPM</title>
 
-	
-	
+
+
 
 </head>
 <body>
+<!-- @include fb-head.kit -->
 <!-- Main container -->
 <div class="page-container">
-    
+
 <!-- Navigation Bloc -->
 <div id="b-nav" class="bloc-container">
 	<div id="bloc-nav" class="d-mode d-mode-active">
@@ -24,7 +25,10 @@
 					<div class="navbar-header">
 						<a class="navbar-brand ltc-dark-jungle-green" href="index.html"><img src="img/logo_rpm.png" alt="logo" width="150" /></a>
 						<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
-							<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+							<span class="sr-only"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
 						</button>
 					</div>
 					<!-- @include menu.kit -->
@@ -40,7 +44,13 @@
 	<div class="container bloc-lg">
 		<div class="row">
 			<div class="col-sm-10 col-sm-offset-1">
-				<a href="san_jose_de_maipo.html"><img src="img/san_jose/home.png" alt="San Jose De Maipo" class="img-responsive img-frame"></a>
+				<h3 class="text-center mg-lg lg-shadow">
+					INSCRIPCIONES ABIERTAS!
+				</h3>
+				<a href="san_jose_de_maipo.html"><img src="img/san_jose/home.png" alt="San Jose De Maipo" class="img-responsive img-frame mg-lg"></a>
+				<h3 class="text-center mg-lg lg-shAdow">
+					APROVECHA LA PREVENTA!
+				</h3>
 				<!-- <h3 class="text-center mg-lg lg-shadow">
 					RPM nace con la intención de crear más espacios destinados al deporte y la recreación para las personas, ayudando a que su práctica se realice de manera ocasional o competitiva.
 				</h3> -->
@@ -65,7 +75,7 @@
 					<div class="col-sm-9">
 						<div class="form-group">
 							<input class="form-control" id="email" name="entry.1154456918" type="email" placeholder="ingresa tu email" />
-						</div>		
+						</div>
 					</div>
 					<div class="col-sm-3">
 						<div class="text-center">
@@ -85,18 +95,17 @@
 <!-- bloc-3 -->
 <div class="bloc bgc-white bg-fondo d-bloc b-parallax" id="bloc-3">
 	<div class="container bloc-lg">
-		<div class="row">		
+		<div class="row">
 			<div id="owl-example" class="owl-carousel">
-				<div><img src="./img/logos/1.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/2.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/3.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/5.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/4.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/1.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/2.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/3.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/5.jpg" class="center-block" alt="logo"></div>
-				<div><img src="./img/logos/4.jpg" class="center-block" alt="logo"></div>
+				<div><img src="./img/slider_home/1.jpg" class="center-block" alt="logo"></div>
+        <div><img src="./img/slider_home/9.jpg" class="center-block" alt="logo"></div>
+				<div><img src="./img/slider_home/2.jpg" class="center-block" alt="logo"></div>
+        <div><img src="./img/slider_home/3.jpg" class="center-block" alt="logo"></div>
+        <div><img src="./img/slider_home/8.jpg" class="center-block" alt="logo"></div>
+        <div><img src="./img/slider_home/4.jpg" class="center-block" alt="logo"></div>
+        <div><img src="./img/slider_home/5.jpg" class="center-block" alt="logo"></div>
+        <div><img src="./img/slider_home/6.jpg" class="center-block" alt="logo"></div>
+        <div><img src="./img/slider_home/7.jpg" class="center-block" alt="logo"></div>
 			</div>
 		</div>
 	</div>
@@ -148,7 +157,8 @@
       		autoPlay: 3000, //Set AutoPlay to 3 seconds
       		items : 4,
       		itemsDesktop : [1199,3],
-      		itemsDesktopSmall : [979,3]
+      		itemsDesktopSmall : [979,3],
+          pagination :  false,
   		});
 	});
 </script>
@@ -157,7 +167,7 @@
 <!-- @include formulario_de_contacto.kit -->
 
 
-    
+
 <!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

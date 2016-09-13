@@ -36,22 +36,23 @@
 <link type="text/plain" rel="author" href="./humans.txt" />
 
 <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
-<link rel="stylesheet" id="ppstyle" type="text/css" href="./css/style.min.css">
 <link rel='stylesheet' href='./css/animate.min.css' />
 <link rel='stylesheet' href='./css/font-awesome.min.css'/>
 <link rel='stylesheet' href='./css/ionicons.min.css'/>
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link rel='stylesheet' href='./css/lightbox.min.css'/>
+<link rel="stylesheet" id="ppstyle" type="text/css" href="./css/style.min.css">
+
+
 <script src="./js/jquery-2.1.0.min.js"></script>
 <script src="./js/min/bootstrap-min.js"></script>
-<script src="./js/min/blocs-min.js"></script>
+<script src="./js/min/blocs.min.js"></script>
+
 
 <meta property="og:title" content="RPM Producciones">
 <meta property="og:description" content="Nuestra misión es acercar la actividad deportiva a las personas, ya sea incentivando la práctica deportiva a un nivel tanto recreacional como competitivo">
 <meta property="og:img" content="rpm.jpg">
 <meta property="og:url" content="http://rpmproducciones.cl">
-
-
-
 
     <title>Beneficios para la salud - RPM</title>
 </head>
@@ -222,9 +223,9 @@
 		<br>
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<h5 class="mg-md tc-white">
-					<a href="mailto:info@rpmproducciones.cl?Subject=CONTACTO%20WEB"><span class="ion ion-android-mail"></span> info@rpmproducciones.cl</a>
-				</h5>
+				<h4 class="mg-md tc-white">
+					<a href="mailto:info@rpmproducciones.cl?Subject=CONTACTO%20WEB"><i class="fa fa-envelope-o fa-fw" aria-hidden="true"></i>   info@rpmproducciones.cl</a>
+				</h4>
 			</div>
 		</div>
 
@@ -241,9 +242,8 @@
     <div id="contacto" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
         <div class="modal-content">
-        <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <h4 class="modal-title">Formulario de contacto</h4>
+        <div>
+          <img src="img/header_contacto.jpg" alt="header" class="img-responsive">
         </div>
         <div class="modal-body">
         	<form class="form-horizontal" name="commentform" method="post" action="contacto.php">
@@ -279,6 +279,7 @@
     			<div class="form-group">
         			<div class="col-md-10 col-md-offset-1 input-group">
 			            <button type="submit" value="Submit" class="bloc-button btn btn-wire" id="send_btn">Enviar</button>
+                  
 			        </div>
 			    </div>
 			</form>
@@ -290,8 +291,9 @@
 <!-- Contacto -->
 
 <script>
-    $('#send_btn').popover({content: 'Gracias!'},'click');  
+    $('#send_btn').popover({content: 'Gracias!'},'click');
 </script>
+
 <script>
 $('#send_btn').popover({content: 'Gracias!'},'click');
 </script>

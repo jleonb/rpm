@@ -119,6 +119,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/lightbox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lightbox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/lightbox.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lightbox.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -459,6 +477,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/formulario_de_contacto.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/formulario_de_contacto.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/galeria.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -494,6 +521,39 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/images\/close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280,
+		"inputAbbreviatedPath": "\/images\/close.png",
+		"outputAbbreviatedPath": "\/images\/close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/next.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1350,
+		"inputAbbreviatedPath": "\/images\/next.png",
+		"outputAbbreviatedPath": "\/images\/next.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/prev.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1360,
+		"inputAbbreviatedPath": "\/images\/prev.png",
+		"outputAbbreviatedPath": "\/images\/prev.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/img\/500x150.jpg": {
 		"fileType": 16384,
@@ -590,6 +650,17 @@
 		"initialSize": 325455,
 		"inputAbbreviatedPath": "\/img\/fondo.jpg",
 		"outputAbbreviatedPath": "\/img\/fondo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/header_contacto.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113134,
+		"inputAbbreviatedPath": "\/img\/header_contacto.jpg",
+		"outputAbbreviatedPath": "\/img\/header_contacto.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -693,6 +764,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/partners\/cronosur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24177,
+		"inputAbbreviatedPath": "\/img\/partners\/cronosur.jpg",
+		"outputAbbreviatedPath": "\/img\/partners\/cronosur.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/partners\/eventrid.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12889,
+		"inputAbbreviatedPath": "\/img\/partners\/eventrid.jpg",
+		"outputAbbreviatedPath": "\/img\/partners\/eventrid.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/partners\/kdr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25196,
+		"inputAbbreviatedPath": "\/img\/partners\/kdr.jpg",
+		"outputAbbreviatedPath": "\/img\/partners\/kdr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/partners\/mundo_running.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25981,
+		"inputAbbreviatedPath": "\/img\/partners\/mundo_running.jpg",
+		"outputAbbreviatedPath": "\/img\/partners\/mundo_running.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/partners\/virun.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20572,
+		"inputAbbreviatedPath": "\/img\/partners\/virun.jpg",
+		"outputAbbreviatedPath": "\/img\/partners\/virun.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/partners\/web_frame.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33555,
+		"inputAbbreviatedPath": "\/img\/partners\/web_frame.jpg",
+		"outputAbbreviatedPath": "\/img\/partners\/web_frame.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/placeholder-image.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -700,6 +837,105 @@
 		"initialSize": 7727,
 		"inputAbbreviatedPath": "\/img\/placeholder-image.png",
 		"outputAbbreviatedPath": "\/img\/placeholder-image.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/calypso.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20006,
+		"inputAbbreviatedPath": "\/img\/restaurants\/calypso.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/calypso.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/casa_bosque.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28560,
+		"inputAbbreviatedPath": "\/img\/restaurants\/casa_bosque.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/casa_bosque.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/petite_france\/10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283251,
+		"inputAbbreviatedPath": "\/img\/restaurants\/petite_france\/10.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/petite_france\/10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/petite_france\/13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 294038,
+		"inputAbbreviatedPath": "\/img\/restaurants\/petite_france\/13.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/petite_france\/13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/petite_france\/17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 348733,
+		"inputAbbreviatedPath": "\/img\/restaurants\/petite_france\/17.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/petite_france\/17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/petite_france\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302195,
+		"inputAbbreviatedPath": "\/img\/restaurants\/petite_france\/7.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/petite_france\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/petite_france\/petite_france.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38014,
+		"inputAbbreviatedPath": "\/img\/restaurants\/petite_france\/petite_france.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/petite_france\/petite_france.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/petite_france\/petite_france_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27230,
+		"inputAbbreviatedPath": "\/img\/restaurants\/petite_france\/petite_france_2.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/petite_france\/petite_france_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/restaurants\/petite_france\/petite_france_3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17014,
+		"inputAbbreviatedPath": "\/img\/restaurants\/petite_france\/petite_france_3.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurants\/petite_france\/petite_france_3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -825,6 +1061,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/san_jose\/767.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275773,
+		"inputAbbreviatedPath": "\/img\/san_jose\/767.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/767.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/san_jose\/banner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -869,13 +1116,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/san_jose\/como_llegar_13k.png": {
+	"\/img\/san_jose\/como_llegar_13_5.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 116749,
-		"inputAbbreviatedPath": "\/img\/san_jose\/como_llegar_13k.png",
-		"outputAbbreviatedPath": "\/img\/san_jose\/como_llegar_13k.png",
+		"initialSize": 114999,
+		"inputAbbreviatedPath": "\/img\/san_jose\/como_llegar_13_5.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/como_llegar_13_5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/como_llegar_13k.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201110,
+		"inputAbbreviatedPath": "\/img\/san_jose\/como_llegar_13k.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/como_llegar_13k.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/como_llegar_26.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123863,
+		"inputAbbreviatedPath": "\/img\/san_jose\/como_llegar_26.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/como_llegar_26.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -924,6 +1193,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/san_jose\/foto_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89075,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_10.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78295,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_11.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66521,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_12.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73395,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_13.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90984,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_14.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26438,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_15.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88496,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_16.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71463,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_17.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47110,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_18.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_19.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73083,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_19.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_19.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/san_jose\/foto_2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -935,6 +1314,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/san_jose\/foto_20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75176,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_20.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_21.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73950,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_21.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_21.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_22.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47252,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_22.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_22.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_23.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67201,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_23.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_23.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_24.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96115,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_24.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_24.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_25.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112066,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_25.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_25.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_26.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80234,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_26.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_26.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_27.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55518,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_27.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_27.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_28.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46917,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_28.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_28.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_29.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66305,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_29.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_29.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/san_jose\/foto_3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -942,6 +1431,28 @@
 		"initialSize": 459737,
 		"inputAbbreviatedPath": "\/img\/san_jose\/foto_3.jpg",
 		"outputAbbreviatedPath": "\/img\/san_jose\/foto_3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_30.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31974,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_30.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_30.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_31.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72495,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_31.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_31.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -979,6 +1490,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/san_jose\/foto_7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60444,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_7.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58721,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_8.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/foto_9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55687,
+		"inputAbbreviatedPath": "\/img\/san_jose\/foto_9.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/foto_9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/san_jose\/home.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -997,6 +1541,39 @@
 		"initialSize": 103193,
 		"inputAbbreviatedPath": "\/img\/san_jose\/inicio.jpg",
 		"outputAbbreviatedPath": "\/img\/san_jose\/inicio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/kmz\/logo-google-earth.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121015,
+		"inputAbbreviatedPath": "\/img\/san_jose\/kmz\/logo-google-earth.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/kmz\/logo-google-earth.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/kmz\/logo-kmz.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29041,
+		"inputAbbreviatedPath": "\/img\/san_jose\/kmz\/logo-kmz.png",
+		"outputAbbreviatedPath": "\/img\/san_jose\/kmz\/logo-kmz.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/san_jose\/kmz\/perfil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 355127,
+		"inputAbbreviatedPath": "\/img\/san_jose\/kmz\/perfil.jpg",
+		"outputAbbreviatedPath": "\/img\/san_jose\/kmz\/perfil.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1027,7 +1604,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 365493,
+		"initialSize": 236484,
 		"inputAbbreviatedPath": "\/img\/san_jose\/plano_13k.jpg",
 		"outputAbbreviatedPath": "\/img\/san_jose\/plano_13k.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1177,6 +1754,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/teams\/kine.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36436,
+		"inputAbbreviatedPath": "\/img\/teams\/kine.jpg",
+		"outputAbbreviatedPath": "\/img\/teams\/kine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/teams\/leones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53946,
+		"inputAbbreviatedPath": "\/img\/teams\/leones.jpg",
+		"outputAbbreviatedPath": "\/img\/teams\/leones.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/teams\/leones.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42293,
+		"inputAbbreviatedPath": "\/img\/teams\/leones.png",
+		"outputAbbreviatedPath": "\/img\/teams\/leones.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/tillablanca.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1263,12 +1873,45 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/lightbox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lightbox.js",
+		"outputAbbreviatedPath": "\/js\/min\/lightbox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lightbox.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lightbox.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lightbox.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/min\/blocs-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/blocs-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/blocs-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/blocs.min-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/blocs.min-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/blocs.min-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1291,6 +1934,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/jquery-2.1.0.min-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/jquery-2.1.0.min-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/lightbox-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/lightbox-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/lightbox-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

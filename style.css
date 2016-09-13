@@ -749,6 +749,9 @@ iframe{
     .video-bg-contianer{
         display:none;
     }
+	#partners img {
+		widows: 70%;
+	}
 }
 
 .popover   {
@@ -794,5 +797,13 @@ iframe{
   left: 0;
   right: 0;
 }
+
+#bloc-12 .d-bloc button:hover {
+	color: white;
+}
+.btn-default:hover {
+	background-color: #fe2847;
+}
+
 
 

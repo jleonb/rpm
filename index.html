@@ -35,22 +35,23 @@
 <link type="text/plain" rel="author" href="./humans.txt" />
 
 <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
-<link rel="stylesheet" id="ppstyle" type="text/css" href="./css/style.min.css">
 <link rel='stylesheet' href='./css/animate.min.css' />
 <link rel='stylesheet' href='./css/font-awesome.min.css'/>
 <link rel='stylesheet' href='./css/ionicons.min.css'/>
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link rel='stylesheet' href='./css/lightbox.min.css'/>
+<link rel="stylesheet" id="ppstyle" type="text/css" href="./css/style.min.css">
+
+
 <script src="./js/jquery-2.1.0.min.js"></script>
 <script src="./js/min/bootstrap-min.js"></script>
-<script src="./js/min/blocs-min.js"></script>
+<script src="./js/min/blocs.min.js"></script>
+
 
 <meta property="og:title" content="RPM Producciones">
 <meta property="og:description" content="Nuestra misión es acercar la actividad deportiva a las personas, ya sea incentivando la práctica deportiva a un nivel tanto recreacional como competitivo">
 <meta property="og:img" content="rpm.jpg">
 <meta property="og:url" content="http://rpmproducciones.cl">
-
-
-
     <title>Inicio - RPM</title>
 
 
@@ -148,14 +149,18 @@
 <div class="bloc bgc-white tc-white b-parallax bg-fondo d-bloc" id="bloc-12">
 	<div class="container bloc-lg">
 		<div class="row">
-			<div class="col-sm-10 col-sm-offset-1">
-				<h3 class="text-center mg-lg lg-shadow">
-					INSCRIPCIONES ABIERTAS!
-				</h3>
-				<a href="san_jose_de_maipo.html"><img src="img/san_jose/home.png" alt="San Jose De Maipo" class="img-responsive img-frame mg-lg"></a>
-				<h3 class="text-center mg-lg lg-shAdow">
-					APROVECHA LA PREVENTA!
-				</h3>
+			<div class="col-sm-10 col-sm-offset-1 text-center">
+				<a href="san_jose_de_maipo.html">
+        	<img src="img/san_jose/home.png" alt="San Jose De Maipo" class="img-responsive img-frame mg-lg desktop">
+        	<img src="img/san_jose/767.jpg" alt="San Jose De Maipo" class="img-responsive img-frame mg-lg movil center-block" width="90%">
+        </a>
+        <br><br>
+				<a href="san_jose_de_maipo.html">
+					<button class="bloc-button btn btn-default btn-lg mg-lg inscribase">
+						<strong>Inscríbete acá!</strong>
+					</button>
+				</a>
+        <br><br>
 				<!-- <h3 class="text-center mg-lg lg-shadow">
 					RPM nace con la intención de crear más espacios destinados al deporte y la recreación para las personas, ayudando a que su práctica se realice de manera ocasional o competitiva.
 				</h3> -->
@@ -171,15 +176,15 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h3 class="text-center mg-lg ">
-					Entérate de nuestras próximas actividades y eventos.
+					ENTERATE DE NUESTAS PRÓXIMAS CORRIDAS Y EVENTOS
 				</h3>
 				<div class="row">
 				<script type="text/javascript">var submitted=false;</script>
 				<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='gracias.html';}"></iframe>
-				<form id="form-2762" method="post" action="https://docs.google.com/forms/d/1kXAdfMZAws8r4Z6gb-UDktDKjzipU-gmqOMfo4Mx_pc/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
+				<form id="form-2762" method="post" action="https://docs.google.com/a/webframe.cl/forms/d/e/1FAIpQLSeT4ZZ_toKv2ckkOjkvufDbVSNxchdiZq1MW43kmirTqegDew/formResponse" target="hidden_iframe" id="mG61Hd" onsubmit="submitted=true;">
 					<div class="col-sm-9">
 						<div class="form-group">
-							<input class="form-control" id="email" name="entry.1154456918" type="email" placeholder="ingresa tu email" />
+							<input class="form-control" id="email" name="entry.1802062660" type="email" placeholder="ingresa tu email" />
 						</div>
 					</div>
 					<div class="col-sm-3">
@@ -202,7 +207,7 @@
 	<div class="container bloc-lg">
 		<div class="row">
 			<div id="owl-example" class="owl-carousel">
-				<div><img src="./img/slider_home/1.jpg" class="center-block" alt="logo"></div>
+				<div><img src="./img/slider_home/1.jpg" class="center-block" alt="logo" width="500px"></div>
         <div><img src="./img/slider_home/9.jpg" class="center-block" alt="logo"></div>
 				<div><img src="./img/slider_home/2.jpg" class="center-block" alt="logo"></div>
         <div><img src="./img/slider_home/3.jpg" class="center-block" alt="logo"></div>
@@ -212,6 +217,96 @@
         <div><img src="./img/slider_home/6.jpg" class="center-block" alt="logo"></div>
         <div><img src="./img/slider_home/7.jpg" class="center-block" alt="logo"></div>
 			</div>
+		</div>
+	</div>
+</div>
+<!-- bloc-3 END -->
+
+<!-- bloc-3 -->
+<div class="bloc bgc-white bgc-partners d-bloc b-parallax" id="partners">
+	<div class="container bloc-md">
+		<div class="row">
+      <h3 class="text-center mg-lg ">
+        PARTNERS
+      </h3>
+      <div class="col-sm-2">
+      	<img src="./img/partners/virun.jpg" alt="partner" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+        <img src="./img/partners/eventrid.jpg" alt="partner" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+        <img src="./img/partners/cronosur.jpg" alt="partner" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+        <img src="./img/partners/kdr.jpg" alt="partner" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+      	<img src="./img/partners/mundo_running.jpg" alt="partner" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+				<img src="./img/partners/web_frame.jpg" alt="partner" class="center-block img-responsive">
+      </div>
+		</div>
+	</div>
+</div>
+<!-- bloc-3 END -->
+
+<!-- bloc-3 -->
+<div class="bloc bgc-white bgc-partners d-bloc b-parallax" id="partners">
+	<div class="container bloc-md">
+		<div class="row">
+      <h3 class="text-center mg-lg ">
+        TEAMS
+      </h3>
+      <div class="col-sm-2">
+        <img src="./img/teams/leones.jpg" alt="team" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+				<img src="./img/teams/kine.jpg" alt="team" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+
+      </div>
+      <div class="col-sm-2">
+
+      </div>
+      <div class="col-sm-2">
+
+      </div>
+      <div class="col-sm-2">
+
+      </div>
+		</div>
+	</div>
+</div>
+<!-- bloc-3 END -->
+
+<!-- bloc-3 -->
+<div class="bloc bgc-white bgc-partners d-bloc b-parallax" id="partners">
+	<div class="container bloc-md">
+		<div class="row">
+      <h3 class="text-center mg-lg ">
+        HOTELES & RESTAURANTS RECOMENDADOS
+      </h3>
+      <div class="col-sm-2">
+        <img src="./img/restaurants/calypso.jpg" alt="team" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+				<img src="./img/restaurants/casa_bosque.jpg" alt="team" class="center-block img-responsive">
+      </div>
+      <div class="col-sm-2">
+				<a href="san_jose_de_maipo.html"><img src="./img/restaurants/petite_france/petite_france_3.jpg" alt="team" class="center-block img-responsive"></a>
+      </div>
+      <div class="col-sm-2">
+
+      </div>
+      <div class="col-sm-2">
+
+      </div>
+      <div class="col-sm-2">
+
+      </div>
 		</div>
 	</div>
 </div>
@@ -239,9 +334,9 @@
 		<br>
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<h5 class="mg-md tc-white">
-					<a href="mailto:info@rpmproducciones.cl?Subject=CONTACTO%20WEB"><span class="ion ion-android-mail"></span> info@rpmproducciones.cl</a>
-				</h5>
+				<h4 class="mg-md tc-white">
+					<a href="mailto:info@rpmproducciones.cl?Subject=CONTACTO%20WEB"><i class="fa fa-envelope-o fa-fw" aria-hidden="true"></i>   info@rpmproducciones.cl</a>
+				</h4>
 			</div>
 		</div>
 
@@ -297,9 +392,8 @@
     <div id="contacto" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
         <div class="modal-content">
-        <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <h4 class="modal-title">Formulario de contacto</h4>
+        <div>
+          <img src="img/header_contacto.jpg" alt="header" class="img-responsive">
         </div>
         <div class="modal-body">
         	<form class="form-horizontal" name="commentform" method="post" action="contacto.php">
@@ -335,6 +429,7 @@
     			<div class="form-group">
         			<div class="col-md-10 col-md-offset-1 input-group">
 			            <button type="submit" value="Submit" class="bloc-button btn btn-wire" id="send_btn">Enviar</button>
+                  
 			        </div>
 			    </div>
 			</form>
@@ -346,8 +441,9 @@
 <!-- Contacto -->
 
 <script>
-    $('#send_btn').popover({content: 'Gracias!'},'click');  
+    $('#send_btn').popover({content: 'Gracias!'},'click');
 </script>
+
 
 
 <!-- Google Analytics -->
